@@ -42,6 +42,75 @@ d) -6 – 3.2 j =
 
 8.5.2 Transforme a su forma rectangular: 
 
+a) 36 | -10° =
+
+![image](https://user-images.githubusercontent.com/93960809/155626605-21ae9d02-146e-4bdf-bad0-86d070a7fa41.png)
+
+b) 28.7 | 135° =
+
+![image](https://user-images.githubusercontent.com/93960809/155626637-33b320a6-4367-45af-adc4-5ea5575deec8.png)
+
+c) 11.2 | 28° =
+
+![image](https://user-images.githubusercontent.com/93960809/155626666-4b09b92b-4b50-412f-9291-00e8817830a3.png)
+
+d) 45 | -117.9° =
+
+![image](https://user-images.githubusercontent.com/93960809/155626697-311a675d-e963-4138-b5bc-c90a98d3a0af.png)
+
+8.5.3. Realice las siguientes operaciones paso a paso, y represente el resultado tanto en su forma rectangular como en su forma polar.
+
+![image](https://user-images.githubusercontent.com/93960809/155626741-c05d3e5c-c9af-4752-97cd-63f051357c49.png)
+
+Primeramente, se transforma los fasores a una forma equivalente de manera que sea fácil la operación entres fasores.
+
+![image](https://user-images.githubusercontent.com/93960809/155626774-6a39b84e-572b-4bba-94ab-8a809559303f.png)
+
+Teniendo en cuenta que j^2=-1 se tiene
+
+![image](https://user-images.githubusercontent.com/93960809/155626807-a6726885-7056-41a5-a679-b8eb11c98ea5.png)
+
+Realizando operaciones en ambos lados se tiene:
+
+![image](https://user-images.githubusercontent.com/93960809/155626884-b52033f8-01c8-4654-b5fb-ed55c96d0109.png)
+
+Ahora transformando a forma polar se tiene
+
+![image](https://user-images.githubusercontent.com/93960809/155626929-5280023d-a96a-42dc-a79c-44fe68355883.png)
+
+![image](https://user-images.githubusercontent.com/93960809/155626937-6ff248d0-231b-46d0-8506-4da6ce823490.png)
+
+Como mayoritariamente la expresión se encuentra en forma polar el denominador de la segunda expresión la pasamos a su forma polar.
+
+![image](https://user-images.githubusercontent.com/93960809/155626968-91a08bcc-1481-4b78-b670-ca88cff3bd33.png)
+
+En el caso del segundo fasor la división se resuelve dividiendo los primeros términos del numerador y denominador y en el segundo término se resta el numerador y numerador.
+
+![image](https://user-images.githubusercontent.com/93960809/155626997-638d701d-0765-4e66-92f5-f9514d89c9be.png)
+
+Ahora se transforma cada fasor en forma rectangular para efectos de calculo puesto que fasores en forma polar no se pueden sumar.
+
+![image](https://user-images.githubusercontent.com/93960809/155627031-bacf0ff6-0a5e-4c43-9235-da8dd284cf5a.png)
+
+Ahora transformando a forma polar se tiene
+
+![image](https://user-images.githubusercontent.com/93960809/155627065-386c9a1d-9e19-4181-b568-2326ae8b3e3d.png)
+
+![image](https://user-images.githubusercontent.com/93960809/155627085-8dc97516-ed8a-462a-b617-3aaa8502287c.png)
+
+Transformando la expresión en forma rectangular se tiene:
+
+![image](https://user-images.githubusercontent.com/93960809/155627129-c4dc1527-6ca0-4720-96cd-6980566bb325.png)
+
+Ahora transformando a forma polar se tiene
+
+![image](https://user-images.githubusercontent.com/93960809/155627160-48415c04-e966-469e-a34d-b9b0e10757d6.png)
+
+8.5.4 Resuelva las operaciones anteriores por medio de la calculadora y compare resultados.
+
+
+
+
 
 4. RESPUESTA A INTERROGANTES Y CÁLCULO DEL ERROR
 

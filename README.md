@@ -80,7 +80,7 @@ Realizando operaciones en ambos lados se tiene:
 
 Ahora transformando a forma polar se tiene
 
-![image](https://user-images.githubusercontent.com/93960809/155626929-5280023d-a96a-42dc-a79c-44fe68355883.png)
+![image](https://user-images.githubusercontent.com/93415377/155764319-ddbed234-911e-4b5c-abf5-03d3dbb1eed1.png)
 
 ![image](https://user-images.githubusercontent.com/93960809/155626937-6ff248d0-231b-46d0-8506-4da6ce823490.png)
 

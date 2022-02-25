@@ -59,7 +59,7 @@ c) 11.2 | 28° =
 
 d) 45 | -117.9° =
 
-![image](https://user-images.githubusercontent.com/93960809/155626697-311a675d-e963-4138-b5bc-c90a98d3a0af.png)
+![image](https://user-images.githubusercontent.com/93960809/155632648-613d47f1-16b2-4bb3-bdde-155e1b966867.png)
 
 8.5.3. Realice las siguientes operaciones paso a paso, y represente el resultado tanto en su forma rectangular como en su forma polar.
 
@@ -111,11 +111,54 @@ Ahora transformando a forma polar se tiene
 
 8.5.4 Resuelva las operaciones anteriores por medio de la calculadora y compare resultados.
 
+Transformando de rectangulares a polares
 
+Para 2 + 3 j
 
+![image](https://user-images.githubusercontent.com/93960809/155632701-68c7097b-f4d2-407c-9f12-3072d9f3bda6.png)
+
+Para -8 + 6.2 j
+
+![image](https://user-images.githubusercontent.com/93960809/155632714-ec17e2a8-0a58-4259-a787-11162da8a00c.png)
+
+Para 4.3 – 2.8 j
+
+![image](https://user-images.githubusercontent.com/93960809/155632738-d75e3d68-feef-4cd5-8c4d-bbd41b855b91.png)
+
+Para -6 – 3.2 j
+
+![image](https://user-images.githubusercontent.com/93960809/155632768-a8315f69-e939-4b71-bf7f-f1707ad8aadd.png)
+
+Transformando de polares a rectangulares
+
+Para 36 | -10°
+
+![image](https://user-images.githubusercontent.com/93960809/155632808-fee0815f-497e-479f-b513-2f316045c2c5.png)
+
+Para 28.7 | 135°
+
+![image](https://user-images.githubusercontent.com/93960809/155632838-b9907a34-3d80-4a50-a911-9414e321f2f3.png)
+
+Para 11.2 | 28°
+
+![image](https://user-images.githubusercontent.com/93960809/155632881-2b28d7ae-1ea7-42d3-8575-73831e79665f.png)
+
+Para 45 | -117.9°
+
+![image](https://user-images.githubusercontent.com/93960809/155632917-7dd80561-ae7e-4346-878a-b6a0256138bb.png)
 
 
 4. RESPUESTA A INTERROGANTES Y CÁLCULO DEL ERROR
+
+Cálculo de error
+
+![image](https://user-images.githubusercontent.com/93960809/155633061-793b4433-a94e-4217-8b5e-c8ee2ecf5a36.png)
+
+Para realizar el cálulo de error, se calcula el porcentaje de error tanto en magnitud como en los ángulos y se saca el valor promedio de dicho porcentaje de error. 
+
+![image](https://user-images.githubusercontent.com/93960809/155633082-3ff6487a-a988-4681-af3e-90df640c43fa.png)
+
+![image](https://user-images.githubusercontent.com/93960809/155633184-9d48134a-2c4e-4e1b-9d05-98af6e3318aa.png)
 
 5. VIDEO
 

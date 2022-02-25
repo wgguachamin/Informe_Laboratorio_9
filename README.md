@@ -162,6 +162,8 @@ Para realizar el cálulo de error, se calcula el porcentaje de error tanto en ma
 
 5. VIDEO
 
+https://youtu.be/09qek_a2pkY
+
 6. CONCLUSIONES
 
 -	Dentro de las dos formas de transformación que pueden ocurrir para los números complejos se encuentran la forma rectangular-polar y polar-rectangular. Entre estas dos formas siempre va a ser más factible transformar de polar a rectangular porque así con las coordenadas rectangulares se nos facilita mejor algunos cálculos.

@@ -34,7 +34,8 @@ a) 2 + 3 j=
 
 b) -8 + 6.2 j =
 
-![image](https://user-images.githubusercontent.com/93960809/155623657-a866b899-4bec-4aaf-b6bd-5299ec42b067.png)
+![image](https://user-images.githubusercontent.com/93415377/155768506-95d807d4-93bd-432d-95ca-bfbe817919c6.png)
+
 
 c) 4.3 – 2.8 j =
 
@@ -42,7 +43,8 @@ c) 4.3 – 2.8 j =
 
 d) -6 – 3.2 j =
 
-![image](https://user-images.githubusercontent.com/93960809/155624274-023c81b2-af3d-4358-a256-fb3f6b22de90.png)
+![image](https://user-images.githubusercontent.com/93415377/155768651-a9277eae-9e6c-4aba-96b1-f803a7498768.png)
+
 
 8.5.2 Transforme a su forma rectangular: 
 

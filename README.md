@@ -13,6 +13,10 @@ Realizar la diferentes operaciones algebraicas y aritméticas con números compl
 
 2. MARCO TEÓRICO
 
+![Cause and effect (9)](https://user-images.githubusercontent.com/94008521/155630807-5baf1154-0349-4d7a-ace3-21e8b1d5a998.png)
+
+![Cause and effect (10)](https://user-images.githubusercontent.com/94008521/155630813-774ca009-e481-4992-a536-d3eb4cf029c8.png)
+
 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
 Material y Equipo Requerido

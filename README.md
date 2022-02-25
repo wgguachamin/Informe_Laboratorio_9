@@ -10,7 +10,6 @@ Realizar la diferentes operaciones algebraicas y aritméticas con números compl
 
 - Determinar que transformación es más fácil de utilizar al momento de realizar cambio entre números complejos de la forma polar a la forma rectangular, con el fin de poder determinar que uso es más factible.
 - Identificar que utilidad tiene los números complejos dentro del trabajo con fasores, para poder implementar dicho conocimiento en la utilización de cualquier equipo con fasores.
-- Definir el concepto de fasor tanto en forma rectangular como en polar.
 
 2. MARCO TEÓRICO
 
@@ -118,5 +117,15 @@ Ahora transformando a forma polar se tiene
 
 6. CONCLUSIONES
 
+-	Dentro de las dos formas de transformación que pueden ocurrir para los números complejos se encuentran la forma rectangular-polar y polar-rectangular. Entre estas dos formas siempre va a ser más factible transformar de polar a rectangular porque así con las coordenadas rectangulares se nos facilita mejor algunos cálculos.
+-	Los números complejos dentro de los fasores son importantes dado que, un fasor es un número complejo que representa la magnitud y la fase de una senoide. Es importante mencionar que los circuitos de voltaje y corriente alterna son excitados por fuentes senoidales. Una senoide es una señal que tiene la forma de la función seno o coseno. Y por lo tanto tenemos los cambios o transformaciones para calcular voltaje y corrientes con sus respectivos números complejos y representaciones.
+
 7. BIBLIOGRAFÍA
+
+-	Dorf, R., Svoboda J. Circuitos Eléctricos, 8va edición, sección 10.8: "Leyes de Kirchhoff utilizando fasores".
+-	Dorf, R., Svoboda J. Circuitos Eléctricos, 8va edición, sección 10.9: "Análisis de tensiones en mallas y de corrientes en nodos usando fasores".
+-	Borgetto, M. (24 de Septiembre de 2016). FASORES. Obtenido de https://www.frro.utn.edu.ar/repositorio/catedras/basicas/fisica2/files/UTN-CORRIENTE%20ALTERNA.pdf
+-	Obando, L. (08 de Abril de 2019). Representación Fasorial de corrientes y voltajes – Fasores. Obtenido de https://dademuch.com/2019/04/08/representacion-fasorial-de-corrientes-y-voltajes-fasores/
+-	Orallo, C., Donato, P. G., & Carugati, I. (11 de Marzo de 2018). Obtenido de https://www.editores-srl.com.ar/revistas/ie/329/medicion_fasorial
+
 

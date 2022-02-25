@@ -98,7 +98,7 @@ Ahora se transforma cada fasor en forma rectangular para efectos de calculo pues
 
 Ahora transformando a forma polar se tiene
 
-![image](https://user-images.githubusercontent.com/93415377/155763820-441573e1-a6e3-4c4f-a786-086165f32dcb.png)
+![image](https://user-images.githubusercontent.com/93415377/155764036-53772937-f528-4dc3-88a4-42c905c10c53.png)
 
 ![image](https://user-images.githubusercontent.com/93960809/155627085-8dc97516-ed8a-462a-b617-3aaa8502287c.png)
 
